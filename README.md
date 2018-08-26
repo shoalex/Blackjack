@@ -1,2 +1,2 @@
 # Blackjack
-Blackjack finel project in C course
+Blackjack final project in C course
